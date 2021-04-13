@@ -1,4 +1,5 @@
 **Instructions for running code**
+
 To run the code successfully, 
 1) Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
 Install the version of Anaconda which you downloaded, following the instructions on the download page.
